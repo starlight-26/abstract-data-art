@@ -17,11 +17,9 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## Dataset
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.
-
 Example:
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
+Dataset: https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset/data?select=villagers.csv
 
 - **Country** (String) - name of the country
 - **Population** (int) - number of people in the country
