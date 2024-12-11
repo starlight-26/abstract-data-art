@@ -19,11 +19,13 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Example:
 
-Dataset: https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset/data?select=villagers.csv
+Dataset: [Animal Crossing New Horizons Catalog](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset/data?select=villagers.csv)
 
-- **Country** (String) - name of the country
-- **Population** (int) - number of people in the country
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons
+- **Name** (String) - name of the Villager
+- **Species** (String) - species of the Villager
+- **Gender** (String) - gender of the Villager
+- **Personality** (String) - personality of the Villager
+- **Hobby** (String) - hobby of the Villager
 
 ## UML Diagram
 
