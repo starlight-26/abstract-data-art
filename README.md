@@ -33,15 +33,7 @@ Dataset: [Animal Crossing New Horizons Catalog](https://www.kaggle.com/datasets/
 
 ## Video Demo
 
-Record a short video of your abstract art animation to display here on your README. You can do this by:
-
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](thumbnailAC.png)](https://youtu.be/_KM2B5yCA7c)
 
 ## Description
 
