@@ -37,4 +37,4 @@ Dataset: [Animal Crossing New Horizons Catalog](https://www.kaggle.com/datasets/
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+My program is made for Animal Crossing players who want to learn about different villagers in the game. I chose my dataset because it hasinformation such as the gender, species, hobby, etc of many different Animal Crossing villagers. This allowed me to give the user short descriptions of any villager. The program works by randomizing a villager and displaying their name, as well as facts about them. It also plays a short clip of Animal Crossing music in the background.
